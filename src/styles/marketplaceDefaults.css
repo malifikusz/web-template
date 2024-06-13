@@ -45,6 +45,8 @@
 
   --colorLightTransparent: rgba(255, 255, 255, 0.65);
 
+  --colorPastelOrange: #f78154
+
   /**
   * Marketplace color comes by default from src/config/brandingConfig.js
   * It overwrites these CSS Properties.
